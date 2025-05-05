@@ -1,5 +1,5 @@
 {
-  "interstitialAds": [
+  "interstitialAds": 
     { 
       
     "isDesktop": [
@@ -48,10 +48,10 @@
 
     ]
 
-    }
-  ],
+    },
+  
 
-  "rewardedAds": [
+  "rewardedAds": 
 
     { 
       
@@ -104,7 +104,7 @@
     }
 
  
-  ],
+  ,
 
   "bannersAds": 
     {

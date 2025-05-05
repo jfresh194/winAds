@@ -6,17 +6,17 @@
 
       {
         "title": "Small Banner 1",
-        "dirUrl": "bbc",
-        "url": "https://ziegames.com/windowsappads/adsense/index.html",
+        "dirUrl": "doubleclick.net",
+        "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
         "width": 810,
         "height": 150,
         "launchMode": "externalApplication",
         "position": "Open"
       },
       {
-        "title": "Small Banner 2",
+        "title": "Local Ads",
         "dirUrl": "bbc",
-        "url": "https://ziegames.com/windowsappads/adsense/index.html",
+        "url": "https://ziegames.com//windowsappads/custom/index.html",
         "width": 810,
         "height": 150,
         "launchMode": "externalApplication",
@@ -29,7 +29,7 @@
 
       {
         "title": "Small Banner 1",
-        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "doubleclick.net",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -38,7 +38,7 @@
       },
       {
         "title": "Small Banner 2",
-        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "doubleclick.net",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -111,19 +111,19 @@
       "isDesktop": [
         {
           "title": "isDesktop 1",
-          "dirUrl": "bbc",
-          "url": "https://ziegames.com/windowsAppBanner.html",
-          "width": 810,
-          "height": 150,
+          "dirUrl": "doubleclick.net",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
+          "width": 320,
+          "height": 67,
           "launchMode": "externalApplication",
           "position": "Open"
         },
         {
           "title": "SisDesktop 2",
-          "dirUrl": "bbc",
-          "url": "https://ziegames.com/windowsAppBanner.html",
-          "width": 810,
-          "height": 150,
+          "dirUrl": "doubleclick.net",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
+          "width": 320,
+          "height": 67,
           "launchMode": "externalApplication",
           "position": "Open"
         }
@@ -133,8 +133,8 @@
       "isMobile": [
         {
           "title": "isMobile 1",
-          "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media37441__en320x67.gif",
-          "url": "https://ziegames.com/windowsAppBanner.html",
+          "dirUrl": "doubleclick.net",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
           "width": 320,
           "height": 67,
           "launchMode": "externalApplication",
@@ -142,8 +142,8 @@
         },
         {
           "title": "isMobile 2",
-          "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media37441__en320x67.gif",
-          "url": "https://ziegames.com/windowsAppBanner.html",
+          "dirUrl": "doubleclick.net",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
           "width": 320,
           "height": 67,
           "launchMode": "externalApplication",

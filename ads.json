@@ -41,7 +41,7 @@
     }
   ],
 
-  "bannersAds": [
+  "bannersAds": 
     {
       "bannersBig": [
         {
@@ -106,5 +106,5 @@
         }
       ]
     }
-  ]
+  
 }

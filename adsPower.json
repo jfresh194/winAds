@@ -1,0 +1,27 @@
+{
+  "PowerSwitch": {
+    "Jam Hero": {
+      "settings": {
+        "cz_int": 55,
+        "banner": true,
+        "interstitial": true,
+        "skipinterstitial": false,
+        "rewarded": true,
+        "skiprewarded": false,
+        "caping": 2
+      }
+    },
+
+    "Punk Grid": {
+      "settings": {
+        "cz_int": 3,
+        "banner": false,
+        "interstitial": false,
+        "interstitialInApp": false,
+        "rewarded": false,
+        "skiprewarded": false,
+        "caping": 2
+      }
+    }
+  }
+}

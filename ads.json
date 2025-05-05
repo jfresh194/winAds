@@ -6,7 +6,7 @@
 
       {
         "title": "Small Banner 1",
-        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -15,7 +15,7 @@
       },
       {
         "title": "Small Banner 2",
-        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -29,7 +29,7 @@
 
       {
         "title": "Small Banner 1",
-        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -38,7 +38,7 @@
       },
       {
         "title": "Small Banner 2",
-        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -59,7 +59,7 @@
 
       {
         "title": "Small Banner 1",
-        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,
         "height": 150,
@@ -68,7 +68,7 @@
       },
       {
         "title": "Small Banner 2",
-        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,
         "height": 150,
@@ -82,7 +82,7 @@
 
       {
         "title": "Small Banner 1",
-        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,
         "height": 150,
@@ -91,7 +91,7 @@
       },
       {
         "title": "Small Banner 2",
-        "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,
         "height": 150,
@@ -111,7 +111,7 @@
       "isDesktop": [
         {
           "title": "isDesktop 1",
-          "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+          "dirUrl": "bbc",
           "url": "https://ziegames.com/windowsAppBanner.html",
           "width": 810,
           "height": 150,
@@ -120,7 +120,7 @@
         },
         {
           "title": "SisDesktop 2",
-          "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+          "dirUrl": "bbc",
           "url": "https://ziegames.com/windowsAppBanner.html",
           "width": 810,
           "height": 150,
@@ -133,7 +133,7 @@
       "isMobile": [
         {
           "title": "isMobile 1",
-          "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media37441__en320x67.gif",
+          "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media37441__en320x67.gif",
           "url": "https://ziegames.com/windowsAppBanner.html",
           "width": 320,
           "height": 67,
@@ -142,7 +142,7 @@
         },
         {
           "title": "isMobile 2",
-          "imageurl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media37441__en320x67.gif",
+          "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media37441__en320x67.gif",
           "url": "https://ziegames.com/windowsAppBanner.html",
           "width": 320,
           "height": 67,

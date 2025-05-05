@@ -6,7 +6,7 @@
 
       {
         "title": "Banner1",
-        "dirUrl": "doubleclick.net",
+        "dirUrlInterstitials": "doubleclick.net",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -15,7 +15,7 @@
       },
       {
         "title": "Local Ads",
-        "dirUrl": "bbc",
+        "dirUrlInterstitials": "bbc",
         "url": "https://ziegames.com//windowsappads/custom/index.html",
         "width": 810,
         "height": 150,
@@ -29,7 +29,7 @@
 
       {
         "title": "Small Banner 1",
-        "dirUrl": "doubleclick.net",
+        "dirUrlInterstitials": "doubleclick.net",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -38,7 +38,7 @@
       },
       {
         "title": "Small Banner 2",
-        "dirUrl": "doubleclick.net",
+        "dirUrlInterstitials": "doubleclick.net",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
@@ -59,7 +59,7 @@
 
       {
         "title": "Small Banner 1",
-        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrlInterstitials": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,
         "height": 150,
@@ -68,7 +68,7 @@
       },
       {
         "title": "Small Banner 2",
-        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrlInterstitials": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,
         "height": 150,
@@ -82,7 +82,7 @@
 
       {
         "title": "Small Banner 1",
-        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrlInterstitials": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,
         "height": 150,
@@ -91,7 +91,7 @@
       },
       {
         "title": "Small Banner 2",
-        "dirUrl": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
+        "dirUrlInterstitials": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,
         "height": 150,
@@ -111,7 +111,7 @@
       "isDesktop": [
         {
           "title": "isDesktop 1",
-          "dirUrl": "doubleclick.net",
+          "dirUrlBanner": "doubleclick.net",
           "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
           "width": 320,
           "height": 67,
@@ -120,7 +120,7 @@
         },
         {
           "title": "SisDesktop 2",
-          "dirUrl": "doubleclick.net",
+          "dirUrlBanner": "doubleclick.net",
           "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
           "width": 320,
           "height": 67,
@@ -133,7 +133,7 @@
       "isMobile": [
         {
           "title": "isMobile 1",
-          "dirUrl": "doubleclick.net",
+          "dirUrlBanner": "doubleclick.net",
           "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
           "width": 320,
           "height": 67,
@@ -142,7 +142,7 @@
         },
         {
           "title": "isMobile 2",
-          "dirUrl": "doubleclick.net",
+          "dirUrlBanner": "doubleclick.net",
           "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
           "width": 320,
           "height": 67,

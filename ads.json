@@ -5,9 +5,9 @@
     "isDesktop": [
 
       {
-        "title": "Small Banner 1",
+        "title": "Banner1",
         "dirUrl": "doubleclick.net",
-        "url": "https://ziegames.com/windowsappads/adsense/banners/index.html",
+        "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
         "launchMode": "externalApplication",

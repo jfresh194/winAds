@@ -5,7 +5,7 @@
     "isDesktop": [
 
       {
-        "title": "Banner1",
+        "title": "AdSese Ads",
         "dirUrlInterstitials": "doubleclick.net",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
@@ -15,8 +15,8 @@
       },
       {
         "title": "Local Ads",
-        "dirUrlInterstitials": "bbc",
-        "url": "https://ziegames.com//windowsappads/custom/index.html",
+        "dirUrlInterstitials": "https://bbc.com",
+        "url": "https://ziegames.com/windowsappads/custom/index.html",
         "width": 810,
         "height": 150,
         "launchMode": "externalApplication",
@@ -37,9 +37,9 @@
         "position": "Open"
       },
       {
-        "title": "Small Banner 2",
-        "dirUrlInterstitials": "doubleclick.net",
-        "url": "https://ziegames.com/windowsappads/adsense/index.html",
+        "title": "Local Ads Mobile",
+        "dirUrlInterstitials": "https://bbc.com",
+        "url": "https://ziegames.com/windowsappads/custom/index.html",
         "width": 810,
         "height": 150,
         "launchMode": "externalApplication",

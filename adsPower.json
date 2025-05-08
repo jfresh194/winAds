@@ -5,10 +5,18 @@
         "cz_int": 55,
         "banner": true,
         "interstitial": true,
-        "skipinterstitial": false,
         "rewarded": true,
-        "skiprewarded": false,
         "caping": 2
+      }
+    },
+
+       "Demolition Derby": {
+      "settings": {
+        "cz_int": 44,
+        "banner": true,
+        "interstitial": true,
+        "rewarded": true,
+        "caping": 1
       }
     },
 
@@ -17,9 +25,7 @@
         "cz_int": 3,
         "banner": true,
         "interstitial": true,
-        "interstitialInApp": true,
         "rewarded": true,
-        "skiprewarded": false,
         "caping": 2
       }
     }

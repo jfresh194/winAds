@@ -14,9 +14,9 @@
         "position": "Open"
       },
       {
-        "title": "Local Ads",
-        "dirUrlInterstitials": "https://bbc.com/",
-        "url": "https://ziegames.com/windowsappads/custom/index.html",
+        "title": "AdSese Ads 2",
+        "dirUrlInterstitials": "doubleclick.net",
+        "url": "https://ziegames.com/windowsappads/adsense/index.html",
         "width": 810,
         "height": 150,
         "launchMode": "externalApplication",
@@ -31,15 +31,6 @@
         "title": "Small Banner 1",
         "dirUrlInterstitials": "doubleclick.net",
         "url": "https://ziegames.com/windowsappads/adsense/index.html",
-        "width": 810,
-        "height": 150,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      },
-      {
-        "title": "Local Ads Mobile",
-        "dirUrlInterstitials": "https://bbc.com/",
-        "url": "https://ziegames.com/windowsappads/custom/index.html",
         "width": 810,
         "height": 150,
         "launchMode": "externalApplication",
@@ -82,15 +73,6 @@
 
       {
         "title": "Small Banner 1",
-        "dirUrlInterstitials": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
-        "url": "https://1xbet.com/",
-        "width": 810,
-        "height": 150,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      },
-      {
-        "title": "Small Banner 2",
         "dirUrlInterstitials": "https://raw.githubusercontent.com/jfresh194/indigosl/refs/heads/main/Media54179__1.gif",
         "url": "https://1xbet.com/",
         "width": 810,

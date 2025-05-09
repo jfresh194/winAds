@@ -23,7 +23,7 @@
     "Tower vs Goblins": {
       "settings": {
         "cz_int": 44,
-        "banner": false,
+        "banner": true,
         "interstitial": true,
         "rewarded": true,
         "caping": 0

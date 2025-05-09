@@ -20,6 +20,16 @@
       }
     },
 
+      "Truck Simulator: Russia": {
+      "settings": {
+        "cz_int": 44,
+        "banner": false,
+        "interstitial": true,
+        "rewarded": true,
+        "caping": 20
+      }
+    },
+
     "Tower vs Goblins": {
       "settings": {
         "cz_int": 44,

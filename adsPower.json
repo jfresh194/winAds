@@ -13,7 +13,7 @@
        "Demolition Derby": {
       "settings": {
         "cz_int": 44,
-        "banner": true,
+        "banner": false,
         "interstitial": true,
         "rewarded": true,
         "caping": 20

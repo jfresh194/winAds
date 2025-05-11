@@ -7,7 +7,7 @@
         "interstitial": true,
         "rewarded": true,
         "caping": 2,
-        "specialLink" : "",
+        "specialAdLink" : "",
         "gitSpecialBannerLink" : 
           {
             "sbLink" : "",
@@ -25,7 +25,7 @@
         "interstitial": true,
         "rewarded": true,
         "caping": 20,
-        "specialLink" : "",
+        "specialAdLink" : "",
         "gitSpecialBannerLink" : 
           {
             "sbLink" : "",
@@ -43,7 +43,7 @@
         "interstitial": true,
         "rewarded": true,
         "caping": 20,
-        "specialLink" : "",
+        "specialAdLink" : "",
         "gitSpecialBannerLink" : 
           {
             "sbLink" : "",
@@ -61,7 +61,7 @@
         "interstitial": true,
         "rewarded": true,
         "caping": 20,
-        "specialLink" : "",
+        "specialAdLink" : "",
         "gitSpecialBannerLink" : 
           {
             "sbLink" : "",
@@ -79,7 +79,7 @@
         "interstitial": true,
         "rewarded": true,
         "caping": 20,
-        "specialLink" : "",
+        "specialAdLink" : "",
         "gitSpecialBannerLink" : 
           {
             "sbLink" : "",
@@ -99,7 +99,7 @@
         "interstitial": true,
         "rewarded": true,
         "caping": 2,
-        "specialLink" : "",
+        "specialAdLink" : "",
         "gitSpecialBannerLink" : 
           {
             "sbLink" : "",
@@ -117,10 +117,10 @@
         "interstitial": true,
         "rewarded": true,
         "caping": 2,
-        "specialLink" : "",
+        "specialAdLink" : "https://edition.cnn.com/",
         "gitSpecialBannerLink" : 
           {
-            "sbLink" : "https://google.com",
+            "sbLink" : "https://www.bbc.com/",
             "sbWidth" : 500,
             "sbHeight" : 90
           }

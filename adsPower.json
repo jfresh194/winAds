@@ -110,6 +110,24 @@
       }
     },
 
+    "World Z Defense": {
+      "settings": {
+        "cz_int": 3,
+        "banner": true,
+        "interstitial": true,
+        "rewarded": true,
+        "caping": 2,
+        "specialAdLink" : "",
+        "gitSpecialBannerLink" : 
+          {
+            "sbLink" : "",
+            "sbWidth" : 0,
+            "sbHeight" : 0
+          }
+        
+      }
+    },
+
       "Paint the Flag": {
       "settings": {
         "cz_int": 3,

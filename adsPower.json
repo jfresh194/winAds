@@ -117,12 +117,12 @@
         "interstitial": true,
         "rewarded": true,
         "caping": 2,
-        "specialAdLink" : "https://edition.cnn.com/",
+        "specialAdLink" : "",
         "gitSpecialBannerLink" : 
           {
-            "sbLink" : "https://www.bbc.com/",
-            "sbWidth" : 500,
-            "sbHeight" : 90
+            "sbLink" : "",
+            "sbWidth" : 0,
+            "sbHeight" : 0
           }
         
       }

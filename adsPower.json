@@ -20,10 +20,10 @@
     "Demolition Derby": {
       "settings": {
         "cz_int": 44,
-        "banner": false,
+        "banner": true,
         "interstitial": true,
         "rewarded": true,
-        "caping": 20,
+        "caping": 2,
         "specialAdLink": "",
         "bannerPositionString": "topCenter",
         "gitSpecialBannerLink": {

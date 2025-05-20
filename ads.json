@@ -116,18 +116,18 @@
         {
           "title": "isMobile 1",
           "dirUrlBanner": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/mobilebanner/index.html",
           "width": 320,
-          "height": 67,
+          "height": 50,
           "launchMode": "externalApplication",
           "position": "Open"
         },
         {
           "title": "isMobile 2",
           "dirUrlBanner": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/mobilebanner/index.html",
           "width": 320,
-          "height": 67,
+          "height": 50,
           "launchMode": "externalApplication",
           "position": "Open"
         }

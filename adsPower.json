@@ -2867,7 +2867,7 @@
         "rewarded": true,
         "caping": 1,
         "specialAdLink": "",
-        "bannerPositionString": "topCenter",
+        "bannerPositionString": "bottomCenter",
         "gitSpecialBannerLink": { "sbLink": "", "sbWidth": 0, "sbHeight": 0 }
       }
     },

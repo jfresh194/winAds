@@ -8,6 +8,7 @@
         "rewarded": true,
         "caping": 2,
         "specialAdLink": "",
+        "bannerPositionString": "topCenter",
         "gitSpecialBannerLink": {
           "sbLink": "",
           "sbWidth": 0,
@@ -24,6 +25,7 @@
         "rewarded": true,
         "caping": 20,
         "specialAdLink": "",
+        "bannerPositionString": "topLeft",
         "gitSpecialBannerLink": {
           "sbLink": "",
           "sbWidth": 0,
@@ -40,6 +42,7 @@
         "rewarded": true,
         "caping": 2,
         "specialAdLink": "",
+        "bannerPositionString": "topCenter",
         "gitSpecialBannerLink": {
           "sbLink": "",
           "sbWidth": 0,
@@ -56,6 +59,7 @@
         "rewarded": true,
         "caping": 2,
         "specialAdLink": "",
+        "bannerPositionString": "topCenter",
         "gitSpecialBannerLink": {
           "sbLink": "",
           "sbWidth": 0,
@@ -72,6 +76,7 @@
         "rewarded": true,
         "caping": 2,
         "specialAdLink": "",
+        "bannerPositionString": "topCenter",
         "gitSpecialBannerLink": {
           "sbLink": "",
           "sbWidth": 0,

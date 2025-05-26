@@ -132,6 +132,52 @@
           "position": "Open"
         }
       ]
+    },
+
+   "leaderBoardAds": 
+    {
+      "isDesktop": [
+        {
+          "title": "isDesktop 1",
+          "dirUrlBanner": "doubleclick.net",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/leaderboard/index.html",
+          "width": 320,
+          "height": 90,
+          "launchMode": "externalApplication",
+          "position": "Open"
+        },
+        {
+          "title": "SisDesktop 2",
+          "dirUrlBanner": "doubleclick.net",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/leaderboard/index.html",
+          "width": 320,
+          "height": 90,
+          "launchMode": "externalApplication",
+          "position": "Open"
+        }
+      ],
+
+
+      "isMobile": [
+        {
+          "title": "isMobile 1",
+          "dirUrlBanner": "doubleclick.net",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+          "width": 320,
+          "height": 67,
+          "launchMode": "externalApplication",
+          "position": "Open"
+        },
+        {
+          "title": "isMobile 2",
+          "dirUrlBanner": "doubleclick.net",
+          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+          "width": 320,
+          "height": 67,
+          "launchMode": "externalApplication",
+          "position": "Open"
+        }
+      ]
     }
   
 }

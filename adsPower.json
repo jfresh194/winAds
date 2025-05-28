@@ -27,7 +27,7 @@
         "interstitial": false,
         "rewarded": true,
         "leaderBoard": false,
-        "caping": 2,
+        "caping": 4,
         "specialAdLink": "",
         "stickBannerMobile": false,
         "stickBannerDesktop": true,
@@ -40,7 +40,7 @@
       }
     },
 
-        "Demolition Derby 3": {
+      "Demolition Derby 3": {
       "settings": {
         "cz_int": 44,
         "banner": false,

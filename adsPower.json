@@ -40,6 +40,26 @@
       }
     },
 
+        "Demolition Derby 3": {
+      "settings": {
+        "cz_int": 44,
+        "banner": false,
+        "interstitial": false,
+        "rewarded": true,
+        "leaderBoard": false,
+        "caping": 2,
+        "specialAdLink": "",
+        "stickBannerMobile": false,
+        "stickBannerDesktop": true,
+        "bannerPositionString": "bottomLeft",
+        "gitSpecialBannerLink": {
+          "sbLink": "",
+          "sbWidth": 0,
+          "sbHeight": 0
+        }
+      }
+    },
+
     "Punk Grid": {
       "settings": {
         "cz_int": 3,

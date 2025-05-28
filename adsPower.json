@@ -23,15 +23,15 @@
     "Demolition Derby": {
       "settings": {
         "cz_int": 44,
-        "banner": true,
-        "interstitial": true,
+        "banner": false,
+        "interstitial": false,
         "rewarded": true,
         "leaderBoard": false,
         "caping": 2,
         "specialAdLink": "",
         "stickBannerMobile": false,
-        "stickBannerDesktop": false,
-        "bannerPositionString": "topCenter",
+        "stickBannerDesktop": true,
+        "bannerPositionString": "bottomLeft",
         "gitSpecialBannerLink": {
           "sbLink": "",
           "sbWidth": 0,

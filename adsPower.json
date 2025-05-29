@@ -23,10 +23,10 @@
         "Demolition Derby": {
             "settings": {
                 "cz_int": 44,
-                "banner": true,
+                "banner": false,
                 "interstitial": false,
                 "rewarded": true,
-                "leaderBoard": false,
+                "leaderBoard": true,
                 "caping": 7,
                 "specialAdLink": "",
                 "gitstickBannerMobile": true,

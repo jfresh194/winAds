@@ -23,7 +23,7 @@
     "Demolition Derby": {
       "settings": {
         "cz_int": 44,
-        "banner": false,
+        "banner": true,
         "interstitial": false,
         "rewarded": true,
         "leaderBoard": false,
@@ -43,7 +43,7 @@
       "Demolition Derby 3": {
       "settings": {
         "cz_int": 44,
-        "banner": false,
+        "banner": true,
         "interstitial": false,
         "rewarded": true,
         "leaderBoard": false,

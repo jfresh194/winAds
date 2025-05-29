@@ -30,7 +30,7 @@
                 "caping": 5,
                 "specialAdLink": "",
                 "gitstickBannerMobile": false,
-                "gitstickBannerDesktop": false,
+                "gitstickBannerDesktop": true,
                 "bannerPositionString": "topCenter",
                 "stickbannerPositionString": "bottomLeft",
                 "gitSpecialBannerLink": {

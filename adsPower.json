@@ -29,8 +29,8 @@
                 "leaderBoard": true,
                 "caping": 5,
                 "specialAdLink": "",
-                "gitstickBannerMobile": true,
-                "gitstickBannerDesktop": true,
+                "gitstickBannerMobile": false,
+                "gitstickBannerDesktop": false,
                 "bannerPositionString": "topCenter",
                 "stickbannerPositionString": "bottomLeft",
                 "gitSpecialBannerLink": {

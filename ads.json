@@ -4,16 +4,7 @@
             {
                 "title": "AdSese Ads",
                 "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
-                "width": 810,
-                "height": 150,
-                "launchMode": "externalApplication",
-                "position": "Open"
-            },
-            {
-                "title": "AdSese Ads 2",
-                "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
+                "url": "https://ziegames.com/windowsappads/adsense/rewarded/",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",
@@ -24,7 +15,7 @@
             {
                 "title": "Small Banner 1",
                 "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
+                "url": "https://ziegames.com/windowsappads/adsense/rewarded/",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",

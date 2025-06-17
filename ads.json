@@ -1,183 +1,143 @@
 {
-  "interstitialAds": 
-    { 
-      
-    "isDesktop": [
-
-      {
-        "title": "AdSese Ads",
-        "dirUrlInterstitials": "doubleclick.net",
-        "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
-        "width": 810,
-        "height": 150,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      },
-      {
-        "title": "AdSese Ads 2",
-        "dirUrlInterstitials": "doubleclick.net",
-        "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
-        "width": 810,
-        "height": 150,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      }
-
-    ],
-
-    "isMobile": [
-
-      {
-        "title": "Small Banner 1",
-        "dirUrlInterstitials": "doubleclick.net",
-        "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
-        "width": 810,
-        "height": 150,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      }
-
-    ]
-
+    "interstitialAds": {
+        "isDesktop": [
+            {
+                "title": "AdSese Ads",
+                "dirUrlInterstitials": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
+                "width": 810,
+                "height": 150,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            },
+            {
+                "title": "AdSese Ads 2",
+                "dirUrlInterstitials": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
+                "width": 810,
+                "height": 150,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+        ],
+        "isMobile": [
+            {
+                "title": "Small Banner 1",
+                "dirUrlInterstitials": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
+                "width": 810,
+                "height": 150,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+        ]
     },
-  
-
-  "rewardedAds": 
-
-    { 
-      
-    "isDesktop": [
-
-      {
-        "title": "Small Banner 1",
-        "dirUrlInterstitials": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
-        "url": "https://1xbet.com/",
-        "width": 810,
-        "height": 150,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      },
-      {
-        "title": "Small Banner 2",
-        "dirUrlInterstitials": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
-        "url": "https://1xbet.com/",
-        "width": 810,
-        "height": 150,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      }
-
-    ],
-
-    "isMobile": [
-
-      {
-        "title": "Small Banner 1",
-        "dirUrlInterstitials": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
-        "url": "https://1xbet.com/",
-        "width": 810,
-        "height": 150,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      }
-
-    ]
-
-    }
-
- 
-  ,
-
-  "bannersAds": 
-    {
-      "isDesktop": [
-        {
-          "title": "isDesktop 1",
-          "dirUrlBanner": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
-          "width": 320,
-          "height": 50,
-          "launchMode": "externalApplication",
-          "position": "Open"
-        },
-        {
-          "title": "SisDesktop 2",
-          "dirUrlBanner": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
-          "width": 320,
-          "height": 50,
-          "launchMode": "externalApplication",
-          "position": "Open"
-        }
-      ],
-
-
-      "isMobile": [
-        {
-          "title": "isMobile 1",
-          "dirUrlBanner": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
-          "width": 320,
-          "height": 67,
-          "launchMode": "externalApplication",
-          "position": "Open"
-        },
-        {
-          "title": "isMobile 2",
-          "dirUrlBanner": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
-          "width": 320,
-          "height": 67,
-          "launchMode": "externalApplication",
-          "position": "Open"
-        }
-      ]
+    "rewardedAds": {
+        "isDesktop": [
+            {
+                "title": "Small Banner 1",
+                "dirUrlInterstitials": "https://ziegames.com/windowsappads/adsense/rewarded/",
+                "url": "https://1xbet.com/",
+                "width": 810,
+                "height": 150,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+        ],
+        "isMobile": [
+            {
+                "title": "Small Banner 1",
+                "dirUrlInterstitials": "https://ziegames.com/windowsappads/adsense/rewarded/",
+                "url": "https://1xbet.com/",
+                "width": 810,
+                "height": 150,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+        ]
     },
-
-   "leaderBoardAds": 
-    {
-      "isDesktop": [
-        {
-          "title": "isDesktop 1",
-          "dirUrlLeaderBoard": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/leaderboard/index.html",
-          "width": 320,
-          "height": 90,
-          "launchMode": "externalApplication",
-          "position": "Open"
-        },
-        {
-          "title": "SisDesktop 2",
-          "dirUrlLeaderBoard": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/leaderboard/index.html",
-          "width": 320,
-          "height": 90,
-          "launchMode": "externalApplication",
-          "position": "Open"
-        }
-      ],
-
-
-      "isMobile": [
-        {
-          "title": "isMobile 1",
-          "dirUrlLeaderBoard": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
-          "width": 320,
-          "height": 67,
-          "launchMode": "externalApplication",
-          "position": "Open"
-        },
-        {
-          "title": "isMobile 2",
-          "dirUrlLeaderBoard": "doubleclick.net",
-          "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
-          "width": 320,
-          "height": 67,
-          "launchMode": "externalApplication",
-          "position": "Open"
-        }
-      ]
+    "bannersAds": {
+        "isDesktop": [
+            {
+                "title": "isDesktop 1",
+                "dirUrlBanner": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "width": 320,
+                "height": 50,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            },
+            {
+                "title": "SisDesktop 2",
+                "dirUrlBanner": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "width": 320,
+                "height": 50,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+        ],
+        "isMobile": [
+            {
+                "title": "isMobile 1",
+                "dirUrlBanner": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "width": 320,
+                "height": 67,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            },
+            {
+                "title": "isMobile 2",
+                "dirUrlBanner": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "width": 320,
+                "height": 67,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+        ]
+    },
+    "leaderBoardAds": {
+        "isDesktop": [
+            {
+                "title": "isDesktop 1",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/banners/leaderboard/index.html",
+                "width": 320,
+                "height": 90,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            },
+            {
+                "title": "SisDesktop 2",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/banners/leaderboard/index.html",
+                "width": 320,
+                "height": 90,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+        ],
+        "isMobile": [
+            {
+                "title": "isMobile 1",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "width": 320,
+                "height": 67,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            },
+            {
+                "title": "isMobile 2",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "width": 320,
+                "height": 67,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+        ]
     }
-  
 }

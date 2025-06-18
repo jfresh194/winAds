@@ -27,8 +27,8 @@
         "isDesktop": [
             {
                 "title": "Small Banner 1",
-                "dirUrlInterstitials": "https://ziegames.com/windowsappads/adsense/rewarded/",
-                "url": "https://1xbet.com/",
+                "dirUrlInterstitials": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/rewarded/",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",
@@ -38,8 +38,8 @@
         "isMobile": [
             {
                 "title": "Small Banner 1",
-                "dirUrlInterstitials": "https://ziegames.com/windowsappads/adsense/rewarded/",
-                "url": "https://1xbet.com/",
+                "dirUrlInterstitials": "doubleclick.net",
+                "url": "https://ziegames.com/windowsappads/adsense/rewarded/",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",

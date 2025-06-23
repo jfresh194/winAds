@@ -53,8 +53,8 @@
                 "title": "isDesktop 1",
                 "dirUrlBanner": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/banner/desktop/",
-                "width": 728,
-                "height": 90,
+                "width": 460,
+                "height": 60,
                 "launchMode": "externalApplication",
                 "position": "Open"
             },
@@ -62,8 +62,8 @@
                 "title": "SisDesktop 2",
                 "dirUrlBanner": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/banner/desktop/",
-                "width": 728,
-                "height": 90,
+                "width": 468,
+                "height": 60,
                 "launchMode": "externalApplication",
                 "position": "Open"
             }

@@ -4,7 +4,7 @@
             {
                 "title": "AdSese Ads by fresh",
                 "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
+                "url": "https://ziegames.com/fluttergames/interstitial/desktop/",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",
@@ -15,7 +15,7 @@
             {
                 "title": "Small Banner 1",
                 "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/interstitials/ad1/index.html",
+                "url": "https://ziegames.com/fluttergames/interstitial/mobile/",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",
@@ -28,7 +28,7 @@
             {
                 "title": "Small Banner 1",
                 "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/rewarded/",
+                "url": "https://ziegames.com/fluttergames/rewarded/desktop/",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",
@@ -39,7 +39,7 @@
             {
                 "title": "Small Banner 1",
                 "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/rewarded/",
+                "url": "https://ziegames.com/fluttergames/rewarded/mobile/",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",
@@ -52,7 +52,7 @@
             {
                 "title": "isDesktop 1",
                 "dirUrlBanner": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "url": "https://ziegames.com/fluttergames/banner/desktop/",
                 "width": 320,
                 "height": 50,
                 "launchMode": "externalApplication",
@@ -61,7 +61,7 @@
             {
                 "title": "SisDesktop 2",
                 "dirUrlBanner": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "url": "https://ziegames.com/fluttergames/banner/desktop/",
                 "width": 320,
                 "height": 50,
                 "launchMode": "externalApplication",
@@ -72,7 +72,7 @@
             {
                 "title": "isMobile 1",
                 "dirUrlBanner": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "url": "https://ziegames.com/fluttergames/banner/mobile/",
                 "width": 320,
                 "height": 67,
                 "launchMode": "externalApplication",
@@ -81,7 +81,7 @@
             {
                 "title": "isMobile 2",
                 "dirUrlBanner": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "url": "https://ziegames.com/fluttergames/banner/mobile/",
                 "width": 320,
                 "height": 67,
                 "launchMode": "externalApplication",
@@ -94,7 +94,7 @@
             {
                 "title": "isDesktop 1",
                 "dirUrlLeaderBoard": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/banners/leaderboard/index.html",
+                "url": "https://ziegames.com/fluttergames/leaderboard/desktop/",
                 "width": 320,
                 "height": 90,
                 "launchMode": "externalApplication",
@@ -103,7 +103,7 @@
             {
                 "title": "SisDesktop 2",
                 "dirUrlLeaderBoard": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/banners/leaderboard/index.html",
+                "url": "https://ziegames.com/fluttergames/leaderboard/desktop/",
                 "width": 320,
                 "height": 90,
                 "launchMode": "externalApplication",
@@ -114,7 +114,7 @@
             {
                 "title": "isMobile 1",
                 "dirUrlLeaderBoard": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/",
                 "width": 320,
                 "height": 50,
                 "launchMode": "externalApplication",
@@ -123,7 +123,7 @@
             {
                 "title": "isMobile 2",
                 "dirUrlLeaderBoard": "doubleclick.net",
-                "url": "https://ziegames.com/windowsappads/adsense/banners/ad1/index.html",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/",
                 "width": 320,
                 "height": 50,
                 "launchMode": "externalApplication",

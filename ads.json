@@ -96,7 +96,7 @@
                 "dirUrlLeaderBoard": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/leaderboard/desktop/",
                 "width": 320,
-                "height": 90,
+                "height": 100,
                 "launchMode": "externalApplication",
                 "position": "Open"
             },
@@ -105,7 +105,7 @@
                 "dirUrlLeaderBoard": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/leaderboard/desktop/",
                 "width": 320,
-                "height": 90,
+                "height": 100,
                 "launchMode": "externalApplication",
                 "position": "Open"
             }

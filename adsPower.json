@@ -26,11 +26,11 @@
                 "banner": false,
                 "interstitial": true,
                 "rewarded": true,
-                "leaderBoard": true,
+                "leaderBoard": false,
                 "caping": 2,
                 "specialAdLink": "",
                 "gitstickBannerMobile": false,
-                "gitstickBannerDesktop": false,
+                "gitstickBannerDesktop": true,
                 "bannerPositionString": "topCenter",
                 "stickbannerPositionString": "topCenter",
                 "gitSpecialBannerLink": {

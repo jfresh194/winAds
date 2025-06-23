@@ -32,7 +32,7 @@
                 "gitstickBannerMobile": false,
                 "gitstickBannerDesktop": false,
                 "bannerPositionString": "topCenter",
-                "stickbannerPositionString": "bottomLeft",
+                "stickbannerPositionString": "topCenter",
                 "gitSpecialBannerLink": {
                     "sbLink": "",
                     "sbWidth": 0,

@@ -4,7 +4,7 @@
             {
                 "title": "AdSese Ads by fresh",
                 "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/fluttergames/interstitial/desktop/",
+                "url": "https://ziegames.com/fluttergames/interstitial/desktop/index.html",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",
@@ -15,7 +15,7 @@
             {
                 "title": "Small Banner 1",
                 "dirUrlInterstitials": "doubleclick.net",
-                "url": "https://ziegames.com/fluttergames/interstitial/mobile/",
+                "url": "https://ziegames.com/fluttergames/interstitial/mobile/index.html",
                 "width": 810,
                 "height": 150,
                 "launchMode": "externalApplication",

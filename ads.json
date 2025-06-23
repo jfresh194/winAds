@@ -53,8 +53,8 @@
                 "title": "isDesktop 1",
                 "dirUrlBanner": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/banner/desktop/",
-                "width": 320,
-                "height": 50,
+                "width": 728,
+                "height": 90,
                 "launchMode": "externalApplication",
                 "position": "Open"
             },
@@ -62,8 +62,8 @@
                 "title": "SisDesktop 2",
                 "dirUrlBanner": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/banner/desktop/",
-                "width": 320,
-                "height": 50,
+                "width": 728,
+                "height": 90,
                 "launchMode": "externalApplication",
                 "position": "Open"
             }
@@ -74,7 +74,7 @@
                 "dirUrlBanner": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/banner/mobile/",
                 "width": 320,
-                "height": 67,
+                "height": 50,
                 "launchMode": "externalApplication",
                 "position": "Open"
             },
@@ -83,7 +83,7 @@
                 "dirUrlBanner": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/banner/mobile/",
                 "width": 320,
-                "height": 67,
+                "height": 50,
                 "launchMode": "externalApplication",
                 "position": "Open"
             }

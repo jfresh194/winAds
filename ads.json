@@ -72,7 +72,7 @@
             {
                 "title": "isMobile 1",
                 "dirUrlBanner": "doubleclick.net",
-                "url": "https://ziegames.com/fluttergames/banner/mobile/",
+                "url": "https://ziegames.com/fluttergames/banner/mobile/index.html",
                 "width": 320,
                 "height": 50,
                 "launchMode": "externalApplication",
@@ -81,7 +81,7 @@
             {
                 "title": "isMobile 2",
                 "dirUrlBanner": "doubleclick.net",
-                "url": "https://ziegames.com/fluttergames/banner/mobile/",
+                "url": "https://ziegames.com/fluttergames/banner/mobile/index.html",
                 "width": 320,
                 "height": 50,
                 "launchMode": "externalApplication",

@@ -112,7 +112,7 @@
         ],
         "isMobile": [
             {
-                "title": "isMobile 1",
+                "title": "isMobile",
                 "dirUrlLeaderBoard": "doubleclick.net",
                 "url": "https://ziegames.com/fluttergames/leaderboard/mobile/",
                 "width": 320,
@@ -121,9 +121,110 @@
                 "position": "Open"
             },
             {
+                "title": "isMobile 1",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index1.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
                 "title": "isMobile 2",
                 "dirUrlLeaderBoard": "doubleclick.net",
-                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index2.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
+                "title": "isMobile 3",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index3.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
+                "title": "isMobile 4",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index4.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
+                "title": "isMobile 5",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index5.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
+                "title": "isMobile 6",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index6.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
+                "title": "isMobile 7",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index7.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
+                "title": "isMobile 8",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index8.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
+                "title": "isMobile 9",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index9.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+            ,
+            {
+                "title": "isMobile 10",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index10.html",
+                "width": 320,
+                "height": 60,
+                "launchMode": "externalApplication",
+                "position": "Open"
+            }
+
+            ,
+            {
+                "title": "isMobile 11",
+                "dirUrlLeaderBoard": "doubleclick.net",
+                "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index11.html",
                 "width": 320,
                 "height": 60,
                 "launchMode": "externalApplication",

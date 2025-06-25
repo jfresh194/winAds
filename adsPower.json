@@ -46976,7 +46976,7 @@
                 "banner": true,
                 "interstitial": true,
                 "rewarded": true,
-                "leaderBoard": false,
+                "leaderBoard": true,
                 "caping": 3,
                 "specialAdLink": "",
                 "gitstickBannerMobile": false,

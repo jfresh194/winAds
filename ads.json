@@ -31,7 +31,7 @@
         "url": "https://ziegames.com/fluttergames/rewarded/desktop/index.html",
         "width": 810,
         "height": 150,
-        "refreshInterval": 30,
+        "refreshInterval": 10,
         "launchMode": "externalApplication",
         "position": "Open"
       }
@@ -43,7 +43,7 @@
         "url": "https://ziegames.com/fluttergames/rewarded/mobile/index.html",
         "width": 810,
         "height": 150,
-        "refreshInterval": 30,
+        "refreshInterval": 10,
         "launchMode": "externalApplication",
         "position": "Open"
       }

@@ -46973,7 +46973,7 @@
             "settings": {
                 "cz_int": 2232,
                 "slug": "monster-kart",
-                "banner": false,
+                "banner": true,
                 "interstitial": true,
                 "rewarded": true,
                 "leaderBoard": false,

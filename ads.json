@@ -121,26 +121,6 @@
     ],
     "isMobile": [
       {
-        "title": "isMobile",
-        "dirUrlLeaderBoard": "doubleclick.net",
-        "url": "https://ziegames.com/fluttergames/adsterra/banner/index.html",
-        "width": 320,
-        "height": 51,
-        "leaderBoardRefreshInterval": 30,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      },
-      {
-        "title": "isMobile 1",
-        "dirUrlLeaderBoard": "doubleclick.net",
-        "url": "https://ziegames.com/fluttergames/adsterra/banner/index.html",
-        "width": 320,
-        "height": 51,
-        "leaderBoardRefreshInterval": 30,
-        "launchMode": "externalApplication",
-        "position": "Open"
-      },
-      {
         "title": "isMobile 2",
         "dirUrlLeaderBoard": "doubleclick.net",
         "url": "https://ziegames.com/fluttergames/leaderboard/mobile/index1.html",

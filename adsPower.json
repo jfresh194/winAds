@@ -1572,14 +1572,14 @@
             "settings": {
                 "cz_int": 69,
                 "slug": "paint-the-flag",
-                "banner": true,
+                "banner": false,
                 "interstitial": true,
                 "rewarded": true,
                 "leaderBoard": false,
-                "caping": 3,
+                "caping": 2,
                 "specialAdLink": "",
                 "gitstickBannerMobile": false,
-                "gitstickBannerDesktop": false,
+                "gitstickBannerDesktop": true,
                 "bannerPositionString": "topCenter",
                 "stickbannerPositionString": "topCenter",
                 "gitSpecialBannerLink": {

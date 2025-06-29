@@ -1578,7 +1578,7 @@
                 "leaderBoard": false,
                 "caping": 2,
                 "specialAdLink": "",
-                "gitstickBannerMobile": false,
+                "gitstickBannerMobile": true,
                 "gitstickBannerDesktop": true,
                 "bannerPositionString": "topCenter",
                 "stickbannerPositionString": "topCenter",

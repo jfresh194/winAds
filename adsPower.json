@@ -1589,6 +1589,35 @@
                 }
             }
         },
+
+
+               "Bakery Manager Store Simulator": {
+            "settings": {
+                "cz_int": 69,
+                "slug": "paint-the-flag",
+                "banner": false,
+                "interstitial": true,
+                "rewarded": true,
+                "leaderBoard": false,
+                "caping": 2,
+                "specialAdLink": "",
+                "gitstickBannerMobile": false,
+                "gitstickBannerDesktop": false,
+                "bannerPositionString": "topCenter",
+                "stickbannerPositionString": "topCenter",
+                "gitSpecialBannerLink": {
+                    "sbLink": "",
+                    "sbWidth": 0,
+                    "sbHeight": 0
+                }
+            }
+        },
+
+
+
+        
+
+
         "Tag 2 3 4 Players": {
             "settings": {
                 "cz_int": 70,

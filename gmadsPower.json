@@ -1,0 +1,27 @@
+{
+    "PowerSwitch": {
+
+       
+        "Birdy Trip": {
+            "settings": {
+                "cz_int": 3698,
+                "slug": "birdy-trip-game",
+                "banner": true,
+                "interstitial": true,
+                "rewarded": true,
+                "leaderBoard": false,
+                "caping": 3,
+                "specialAdLink": "",
+                "gitstickBannerMobile": false,
+                "gitstickBannerDesktop": false,
+                "bannerPositionString": "topCenter",
+                "stickbannerPositionString": "topCenter",
+                "gitSpecialBannerLink": {
+                    "sbLink": "",
+                    "sbWidth": 0,
+                    "sbHeight": 0
+                }
+            }
+        }
+    }
+}

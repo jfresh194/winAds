@@ -6,9 +6,9 @@
             "settings": {
                 "cz_int": 3698,
                 "slug": "birdy-trip-game",
-                "banner": true,
-                "interstitial": true,
-                "rewarded": true,
+                "banner": false,
+                "interstitial": false,
+                "rewarded": false,
                 "leaderBoard": false,
                 "caping": 3,
                 "specialAdLink": "",

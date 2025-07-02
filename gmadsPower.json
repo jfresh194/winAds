@@ -10,7 +10,7 @@
                 "interstitial": false,
                 "rewarded": false,
                 "leaderBoard": false,
-                "caping": 3,
+                "caping": 100,
                 "specialAdLink": "",
                 "gitstickBannerMobile": false,
                 "gitstickBannerDesktop": false,
